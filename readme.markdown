@@ -1,3 +1,7 @@
+## Git
+
+The best way to learn git is to use git.
+
 Playing with git after taking the [Lynda.com](http://www.lynda.com/Git-tutorials/Git-Essential-Training/100222-2.html?srchtrk=index%3A1%0Alinktypeid%3A2%0Aq%3Agit%0Apage%3A1%0As%3Arelevance%0Asa%3Atrue%0Aproducttypeid%3A2) training course
 
 # Table of Contents
